@@ -2,8 +2,7 @@ Hi, I'm Jesse! Aspiring IAM Professional looking to transition into Identity & A
 
 <h2>👨‍💻 CyberSec IAM Projects:</h2>
 
-Creating On-Prem AD-Lab Set-up Client/Server Model Adding Users, Groups 
-
+Active Directory Lab
 
 
 
@@ -13,7 +12,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning IAM
 - 🔭 I’m currently working on Hands on Lab
 - 👯 I’m looking to collaborate with IAM Professionals 
-- 🤔 I’m looking for help with ??
+- 🤔 I’m looking for help with IAM path
 - 💬 Ask me about ...
 - 📫 [LinkedIn.com/in/jesse-l-d-jr-003a2090](https://LinkedIn.com/in/jesse-l-d-jr-003a2090)
 
