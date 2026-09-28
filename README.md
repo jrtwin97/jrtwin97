@@ -2,8 +2,8 @@ Hi, I'm Jesse! Aspiring IAM Professional looking to transition into Identity & A
 
 <h2>👨‍💻 IAM Projects:</h2>
 
-  [VM Active Directory Lab](https://github.com/jrtwin97/Active_Directory_Lab)
-                                                                                                    | Windows Update Failure |
+[VM Active Directory Lab](https://github.com/jrtwin97/Active_Directory_Lab) |  [Windows-Update-Failure-Fix](https://github.com/jrtwin97/Windows-Update-Failure-Fix-)
+                                                                                                    
 
 IT Support | IAM | Cyber Security 
 Microsoft Entra ID | RBAC| Principal of Least |
@@ -19,7 +19,7 @@ Technical:
 Troubleshooting| Problem Solving| Powershell Scripting | CMD |
 
 
-- 🌱 I’m currently learning IAM towards Analyst or Engineer roles 
+- 🌱 I’m currently learning IAM towards Analyst role
 - 🔭 I’m currently working on Hands on Lab
 - 👯 I’m looking to collaborate with IAM Professionals 
 - 🤔 I’m looking for any guidance towards IAM path
