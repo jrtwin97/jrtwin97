@@ -5,7 +5,7 @@ Hi, I'm Jesse! Aspiring IAM Professional looking to transition into Identity & A
 [VM Active Directory Lab](https://github.com/jrtwin97/Active_Directory_Lab) |  [Windows-Update-Failure-Fix](https://github.com/jrtwin97/Windows-Update-Failure-Fix-)
                                                                                                     
 
-IT Support | IAM | Cyber Security 
+IT Support | IAM | Cyber Security | 
 Microsoft Entra ID | RBAC| Principal of Least |
 CompTIA Sec+ | AWS CCP | Pursuing SC-300 
 
